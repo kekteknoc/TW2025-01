@@ -1,0 +1,3 @@
+# Első bejegyzés
+
+* tele okosságokkal
